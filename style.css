@@ -1,0 +1,64 @@
+img{
+    height: 620px;
+    width: 720px;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-family: "Anton SC", sans-serif;
+    text-decoration:underline wavy ;
+
+}
+p{
+    line-height: 20px;
+    letter-spacing: 4px;
+    word-spacing: 5px;
+}
+
+.else{
+    height: 50px;
+    width: 60px;
+    color: white;
+    background-color: red;
+    font-family:"fa-regular fa-envelope" ;
+    border-radius: 10px;
+}
+.others{
+    height: 50px;
+    width: 60px;
+    color: white;
+    background-color: yellow;
+    font-family: "fa-solid fa-phone";
+    border-radius: 10px;
+
+}
+.none{
+    height: 50px;
+    width: 60px;
+    color: white;
+    background-color:blue;
+    font-family: ""fa-brands fa-facebook"";
+    border-radius: 10px;
+}
+.social{
+    height: 50px;
+    width: 60px;
+    color: white;
+    background-color:palevioletred;
+    font-family:"fa-brands fa-instagram" ;
+    border-radius: 10px;
+}
+.app{
+    height: 50px;
+    width: 60px;
+    color: white;
+    background-color:green;
+    font-family:"fa-brands fa-whatsapp";
+    border-radius: 10px;
+}
+
+
+    
